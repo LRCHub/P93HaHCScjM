@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ライトダンス",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-04T03:11:04.930000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ライトダンス",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_ライトダンス_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライトダンス",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_ライトダンス_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Light Dance [ライトダンス]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Light_Dance_[ライトダンス]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ライトダンス YSST Remix 2015 (Remixed by Yoshinori Sunahara)",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/04_ライトダンス_YSST_Remix_2015_(Remixed_by_Yoshinori_Sunahara)_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ライトダンス (YSST Remix 2015 (Remixed by Yoshinori Sunahara))",
+      "artist": "Sakanaction (サカナクション)",
+      "has_synced": false,
+      "path": "select/05_ライトダンス_(YSST_Remix_2015_(Remixed_by_Yoshinori_Sunahara))_Sakanaction_(サカナクション).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ライトダンス YSST Remix 2015 (Remixed by Yoshinori Sunahara)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/06_ライトダンス_YSST_Remix_2015_(Remixed_by_Yoshinori_Sunahara)_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ライトダンス",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/07_ライトダンス_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ライトダンス",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/08_ライトダンス_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ライトダンス - YSST Remix 2015 (Remixed by Yoshinori Sunahara)",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/09_ライトダンス_-_YSST_Remix_2015_(Remixed_by_Yoshinori_Sunahara)_sakanaction.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライトダンス(YSST Remix 2011)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ライトダンス(YSST_Remix_2011)_サカナクション.txt"
+    }
+  ]
+}
